@@ -1,3 +1,0 @@
-C:/Users/FPT/Desktop/CLionProjects/b 1-5/cmake-build-debug/CMakeFiles/b1.dir
-C:/Users/FPT/Desktop/CLionProjects/b 1-5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/FPT/Desktop/CLionProjects/b 1-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
