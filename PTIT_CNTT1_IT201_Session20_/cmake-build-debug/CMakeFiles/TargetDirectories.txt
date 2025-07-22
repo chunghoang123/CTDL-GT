@@ -1,0 +1,3 @@
+C:/Users/FPT/Desktop/CLionProjects/PTIT_CNTT1_IT201_Session20_/cmake-build-debug/CMakeFiles/PTIT_CNTT1_IT201_Session20_.dir
+C:/Users/FPT/Desktop/CLionProjects/PTIT_CNTT1_IT201_Session20_/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FPT/Desktop/CLionProjects/PTIT_CNTT1_IT201_Session20_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
